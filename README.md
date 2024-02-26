@@ -7,16 +7,16 @@ Youtube Video URL : https://youtu.be/TZjWxRv74O0
 GIT HUB URL:https://github.com/yadasai161101/URBAN-MOTIVE.git
 # Industry: EARTH(URBAN MOTIVE)
 # Team & Responsibilities:
-# 1 YADA SAI ANIRUDH
+1 YADA SAI ANIRUDH
 Developer of the project,Deployed the Website,Created the website and managed the website using HTML, css.
 
-# 2 KURRA KEERTHI
+2 KURRA KEERTHI
 Documentation and content collection of the project.
 
-# 3 THALLADI NARENDRA KUMAR
+3 THALLADI NARENDRA KUMAR
 Data collection, Done the entire process.
 
-# 4 SANGOJI VIGNESHWARA CHARY
+4 SANGOJI VIGNESHWARA CHARY
 Designed the project. 
 # AZURE CORE SERVICES USED:
 Azure storage
@@ -78,11 +78,16 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 # FINAL PROJECT STATEMENT
 The "Urban Motive" project is dedicated to In conclusion, the delivery of the organic and Fresh products from farm with good packing and fast delivery to the customers directly and reach to the customers with good service and support by our team.
-![Screenshot 2024-02-26 174004](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/e4aba903-c82c-4db4-b7dc-ea0ab112a26a)
-![Screenshot 2024-02-26 173940](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/79824866-39d5-474b-8d43-35c17869cf47)
-![Screenshot 2024-02-26 173857](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/ab062416-1a74-47cb-9329-7a8886182143)
-![Screenshot 2024-02-26 173849](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/8fe1c481-63b6-48fe-8d9a-a0f4f0576fa6)
-![Screenshot 2024-02-26 173842](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/417d0a68-70c1-42c5-b397-366374e97ec1)
 ![Screenshot 2024-02-26 173823](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/1e970d7e-e7d3-4b79-8d78-a0548aaa863e)
+![Screenshot 2024-02-26 173842](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/417d0a68-70c1-42c5-b397-366374e97ec1)
+![Screenshot 2024-02-26 173849](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/8fe1c481-63b6-48fe-8d9a-a0f4f0576fa6)
+![Screenshot 2024-02-26 173857](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/ab062416-1a74-47cb-9329-7a8886182143)
+![Screenshot 2024-02-26 173940](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/79824866-39d5-474b-8d43-35c17869cf47)
+![Screenshot 2024-02-26 174004](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/e4aba903-c82c-4db4-b7dc-ea0ab112a26a)
+
+
+
+
+
 
 
