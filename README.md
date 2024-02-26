@@ -8,15 +8,19 @@ GIT HUB URL:https://github.com/yadasai161101/URBAN-MOTIVE.git
 # Industry: EARTH(URBAN MOTIVE)
 # Team & Responsibilities:
 1 YADA SAI ANIRUDH
+
 Developer of the project,Deployed the Website,Created the website and managed the website using HTML, css.
 
 2 KURRA KEERTHI
+
 Documentation and content collection of the project.
 
 3 THALLADI NARENDRA KUMAR
+
 Data collection, Done the entire process.
 
 4 SANGOJI VIGNESHWARA CHARY
+
 Designed the project. 
 # AZURE CORE SERVICES USED:
 Azure storage
