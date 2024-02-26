@@ -82,6 +82,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 # FINAL PROJECT STATEMENT
 The "Urban Motive" project is dedicated to In conclusion, the delivery of the organic and Fresh products from farm with good packing and fast delivery to the customers directly and reach to the customers with good service and support by our team.
+
 ![Screenshot 2024-02-26 173823](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/1e970d7e-e7d3-4b79-8d78-a0548aaa863e)
 ![Screenshot 2024-02-26 173842](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/417d0a68-70c1-42c5-b397-366374e97ec1)
 ![Screenshot 2024-02-26 173849](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/8fe1c481-63b6-48fe-8d9a-a0f4f0576fa6)
