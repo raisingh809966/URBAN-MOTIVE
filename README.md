@@ -17,9 +17,9 @@ Documentation and content collection of the project.
 Data collection, Done the entire process.
 
 # 4 SANGOJI VIGNESHWARA CHARY
-Designed the project.
+Designed the project. 
 # AZURE CORE SERVICES USED:
-Azure Storage
+Azure storage
 
 Azure containers
 
