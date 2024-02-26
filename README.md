@@ -47,17 +47,35 @@ The project is designed to address the increasing demand for locally sourced, fr
 
 # Azure Storage Account:
 Azure Storage is a cloud-based storage solution provided by Microsoft Azure, which is a comprehensive set of cloud services. An Azure Storage account is a unique entity in Azure that represents a storage container for your data.
+"C:\Users\yadas\Pictures\Screenshots\Screenshot 2024-02-26 172254.png"
+"C:\Users\yadas\Pictures\Screenshots\Screenshot 2024-02-26 172351.png"
+
 # Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage solution provided by Microsoft Azure. It is designed to store and manage massive amounts of unstructured data, such as text or binary data. Blob Storage is part of the Azure Storage services and is commonly used for scenarios like storing and serving images, videos, documents, backups, and other large sets of data.
+![Screenshot 2024-02-26 172511](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/46002255-650f-4c09-af07-db263886da3f)
+![Screenshot 2024-02-26 172458](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/d3ab07e5-12ec-4ee2-8a69-03ae88d57b8f)
+
 # Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
+![Screenshot 2024-02-26 172551](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/eccc379f-3807-4a86-b9ab-c325b9947bd2)
+![Screenshot 2024-02-26 172541](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e3a18e0e-adc2-4d45-921a-931a0e7e9771)
+
 # Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
+![Screenshot 2024-02-26 172627](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/bacee43e-2315-4c05-a5ed-1d1bedd24228)
+![Screenshot 2024-02-26 172614](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/404c62c8-e71f-4a6c-9d0e-5b746c198861)
+
 # AZURE AI SERVICES:
 # Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more
+![Screenshot 2024-02-26 172918](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e8c259ad-87e7-48be-8668-3bae4d6bc169)
+![Screenshot 2024-02-26 172901](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/36cbbf89-c128-4bd9-b018-fc4fdd329d50)
+
 # AI Language Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
+![Screenshot 2024-02-26 172800](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e2b363da-33cd-4080-b9af-6f39dd3ee6f5)
+![Screenshot 2024-02-26 172734](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e088422a-4a43-4c5e-9b64-5307783f65fe)
+
 # FINAL PROJECT STATEMENT
 The "You Fly, We Accommodate" project is dedicated to In conclusion, the accommodation of student rooms plays a vital role in fostering a conducive environment for learning, growth, and personal development. Through thoughtful planning, design, and management, student accommodation facilities can greatly enhance the overall university experience, providing students with a comfortable and supportive living space. By prioritizing safety, accessibility, and inclusivity, we can ensure that every student has equal opportunities to thrive academically and socially. Moving forward, continued investment and innovation in student accommodation are essential to meet the evolving needs of students and create spaces that inspire success and well-being.
 
