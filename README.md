@@ -4,7 +4,7 @@ Project Demo URL: https://urbanstorage99.z13.web.core.windows.net/registration.h
 
 Youtube Video URL : https://youtu.be/TZjWxRv74O0
 
-GIT HUB URL:
+GIT HUB URL:https://github.com/yadasai161101/URBAN-MOTIVE.git
 # Industry: EARTH(URBAN MOTIVE)
 # Team & Responsibilities:
 # 1 YADA SAI ANIRUDH
