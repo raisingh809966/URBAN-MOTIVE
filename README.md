@@ -77,5 +77,12 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 ![Screenshot 2024-02-26 172734](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e088422a-4a43-4c5e-9b64-5307783f65fe)
 
 # FINAL PROJECT STATEMENT
-The "You Fly, We Accommodate" project is dedicated to In conclusion, the accommodation of student rooms plays a vital role in fostering a conducive environment for learning, growth, and personal development. Through thoughtful planning, design, and management, student accommodation facilities can greatly enhance the overall university experience, providing students with a comfortable and supportive living space. By prioritizing safety, accessibility, and inclusivity, we can ensure that every student has equal opportunities to thrive academically and socially. Moving forward, continued investment and innovation in student accommodation are essential to meet the evolving needs of students and create spaces that inspire success and well-being.
+The "Urban Motive" project is dedicated to In conclusion, the delivery of the organic and Fresh products from farm with good packing and fast delivery to the customers directly and reach to the customers with good service and support by our team.
+![Screenshot 2024-02-26 174004](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/e4aba903-c82c-4db4-b7dc-ea0ab112a26a)
+![Screenshot 2024-02-26 173940](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/79824866-39d5-474b-8d43-35c17869cf47)
+![Screenshot 2024-02-26 173857](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/ab062416-1a74-47cb-9329-7a8886182143)
+![Screenshot 2024-02-26 173849](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/8fe1c481-63b6-48fe-8d9a-a0f4f0576fa6)
+![Screenshot 2024-02-26 173842](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/417d0a68-70c1-42c5-b397-366374e97ec1)
+![Screenshot 2024-02-26 173823](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/1e970d7e-e7d3-4b79-8d78-a0548aaa863e)
+
 
