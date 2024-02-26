@@ -1,6 +1,6 @@
 # URBAN MOTIVE
 # Project Details:
-Project Demo URL: https://urbanstorage99.z13.web.core.windows.net/registration.html
+Project Demo URL: https://urbanstorage99.z13.web.core.windows.net/index.html
 
 Youtube Video URL : https://youtu.be/TZjWxRv74O0
 
