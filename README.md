@@ -2,21 +2,21 @@
 # Project Details:
 Project Demo URL: https://urbanstorage99.z13.web.core.windows.net/registration.html
 
-Youtube Video URL : https://youtu.be/JEXeIrXxxPs?si=E-LV7SGfczjEvPs_
+Youtube Video URL : https://youtu.be/TZjWxRv74O0
 
 GIT HUB URL:
 # Industry: EARTH(URBAN MOTIVE)
 # Team & Responsibilities:
-1 YADA SAI ANIRUDH
+# 1 YADA SAI ANIRUDH
 Developer of the project,Deployed the Website,Created the website and managed the website using HTML, css.
 
-2 KURRA KEERTHI
+# 2 KURRA KEERTHI
 Documentation and content collection of the project.
 
-3 THALLADI NARENDRA KUMAR
+# 3 THALLADI NARENDRA KUMAR
 Data collection, Done the entire process.
 
-4 SANGOJI VIGNESHWARA CHARY
+# 4 SANGOJI VIGNESHWARA CHARY
 Designed the project.
 # AZURE CORE SERVICES USED:
 Azure Storage
