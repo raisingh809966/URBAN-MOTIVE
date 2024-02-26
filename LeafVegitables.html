@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Urban Motive</title>
+ <!-- Nav bar starts -->
+   <link rel="stylesheet" href="bootstrap.min.css">
+   <link rel="stylesheet" href="style1.css">
+   <link rel="stylesheet" href="style3.css">
+   <link rel="preload" as="style" href="additional.css"><link rel="stylesheet" href="additional.css" type="text/css">
+ <!-- nav bar ends -->
+ 
+   <script src="https://kit.fontawesome.com/8f92dba009.js" crossorigin="anonymous"></script><!-- ICONS FOR FOOTER -->
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="assets/socicon/css/styles.css">
+ 
+   
+ <link rel="stylesheet" href="style.css">
+
+  
+
+
+
+<body>
+
+
+   <section class="menu menu2 header-1" once="menu" id="menu-5-1">
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg" style="background-color: #FFFFFF;">
+      <div class="container">
+        <div class="navbar-brand">
+          <span class="navbar-logo">
+                      <a href="index.html">
+                          <img src="logo.jpg" 
+              style="height: 4.3rem;"> <!-- logo image -->
+                      </a>
+                  </span>
+                  <span class="navbar-caption-wrap">
+            <a class="navbar-caption text-black display-4 mt-2" href="#">Urban Motive</a>
+          </span>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+          data-bs-toggle="collapse" data-target="#navbarSupportedContent"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <div class="hamburger">
+          </div>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link link text-black display-4"  class="active" href="index.html">Home</a>
+          </li>
+            <li class="nav-item">
+              <a class="nav-link link text-black display-4" href="aboutus.html">About us</a>
+            </li>
+
+            <li class="navbar-buttons dropdown">
+              <a class="nav-link link text-black dropdown-toggle display-4" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
+              <div class="dropdown">
+                <ul class="dropdown-menu" style="background-color: #FFFFFF;">
+                  <li><a class="dropdown-item" href="Rice&Grains.html">Rice & Grains</a></li>
+                  <li><a class="dropdown-item" href="DairyProducts.html">DairyProducts</a></li>
+                  <li><a class="dropdown-item" href="Fruits.html">Fruits</a></li>
+                  <li><a class="dropdown-item" href="Vegitables.html">Vegetables</a></li>
+                  <li><a class="dropdown-item" href="LeafVegitables.html">Leafy Vegetables</a></li>
+                </ul>
+              </div>
+          </li>
+            <li class="nav-item">
+              <a class="nav-link link text-black display-4" href="contact us.html ">Contact us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link link text-black display-4" href="services.html">services</a>
+            </li>
+          </ul>
+          <div class="navbar-buttons">
+            <a class="btn btn-primary display-4" href="chatbot.html">Chat Bot</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </section>
+
+
+
+
+  
+</head>
+<body>
+
+
+  <header>
+    <h1>Leafy Vegetables</h1>
+  </header>
+  
+  <section>
+    <div class="product">
+      <img src="palakurra.jpg" alt="Product 1">
+      <strong> Palak</strong>
+      <p>Spinach</p>
+      <p>Price:₹40 </p>
+      <label for="quantity1">Quantity (kg):</label>
+      <input type="number" id="quantity1" min="1" value="1">
+      <button onclick="addToCart('Palak', 40, 'quantity1')">Add to Cart</button>
+    </div>
+  
+    <div class="product">
+      <img src="bachali kurra.jpg" alt="Product 2">
+      <strong> Bachali </strong>
+      <p>Price:₹30</p>
+      <label for="quantity2">Quantity (kg):</label>
+      <input type="number" id="quantity2" min="1" value="1">
+      <button onclick="addToCart('Bachali', 30, 'quantity2')">Add to Cart</button>
+    </div>
+  
+    <div class="product">
+        <img src="Gongura.jpg" alt="Product 2">
+        <strong> Gongura </strong>
+        <p>Sorrel</p>
+        <p>Price:₹30</p>
+        <label for="quantity3">Quantity (kg):</label>
+      <input type="number" id="quantity3" min="1" value="1">
+      <button onclick="addToCart('Gongura', 30, 'quantity3')">Add to Cart</button>
+      </div>  
+    </section>
+  
+    <section>
+      <div class="product">
+        <img src="Thotakura.jpg" alt="Product 1">
+        <strong> Thotakura  </strong align-center>
+          <p>Amaranthus</p>
+        <p>Price:₹25</p>
+        <label for="quantity4">Quantity (kg):</label>
+      <input type="number" id="quantity4" min="1" value="1">
+      <button onclick="addToCart('Thotakura', 25, 'quantity4')">Add to Cart</button>
+      </div>
+
+
+    <div class="product">
+    <img src="Munagaku.jpg" alt="Product 2">
+    <strong> Munagaku </strong>
+    <p>Moringa</p>
+    <p>Price:₹20</p>
+    <label for="quantity5">Quantity (kg):</label>
+      <input type="number" id="quantity5" min="1" value="1">
+      <button onclick="addToCart('Munagaku', 20, 'quantity5')">Add to Cart</button>
+  </div>  
+  
+  <div class="product">
+    <img src="pindi kurra.jpg" alt="Product 1">
+    <strong>Pindi Kurra </strong >
+      <p>Mountain Knot Grass</p>
+    <p>Price: ₹35</p>
+    <label for="quantity6">Quantity (kg):</label>
+      <input type="number" id="quantity6" min="1" value="1">
+      <button onclick="addToCart('Pindi Kurra', 35, 'quantity6')">Add to Cart</button>
+  </div>
+</section>
+  
+<section>
+
+    <div class="product">
+        <img src="menthi.png" alt="Product 2">
+        <strong> Menthi leaves </strong>
+        <p> Frengruek </p>
+        <p>Price: ₹20</p>
+        <label for="quantity7">Quantity (kg):</label>
+      <input type="number" id="quantity7" min="1" value="1">
+      <button onclick="addToCart('Menthi leaves ', 20, 'quantity7')">Add to Cart</button>
+      </div>  
+    
+      <div class="product">
+        <img src="ponagantikura.jpg" alt="Product 2">
+        <strong> ponaganti </strong>
+        <p>Water Amaranthus </p>
+        <p>Price: ₹40</p>
+        <label for="quantity8">Quantity (kg):</label>
+      <input type="number" id="quantity8" min="1" value="1">
+      <button onclick="addToCart('ponaganti', 40, 'quantity8')">Add to Cart</button>
+      </div>  
+ 
+    <div class="product">
+      <img src="kothimeera.jpg" alt="Product 2">
+      <strong> Kothi Mera </strong>
+      <p>Coriander</p>
+      <p>Price: ₹60</p>
+      <label for="quantity9">Quantity (kg):</label>
+      <input type="number" id="quantity9" min="1" value="1">
+      <button onclick="addToCart('Kothi Mera ', 60, 'quantity9')">Add to Cart</button>
+    </div>
+  
+  </section>
+  
+  <section>
+    <div class="product">
+      <img src="curryleaves.jpg" alt="Product 2">
+      <strong> Karvepaku</strong>
+    <p>Curry Leaves</p>
+      <p>Price: ₹20</p>
+      <label for="quantity10">Quantity (kg):</label>
+      <input type="number" id="quantity10" min="1" value="1">
+      <button onclick="addToCart('Karvepaku', 20, 'quantity10')">Add to Cart</button>
+    </div>
+
+    <div class="product">
+        <img src="spring onion.jpg" alt="Product 2">
+        <strong> Spring Onion </strong>
+        <p>Scallions</p>
+        <p>Price: ₹30</p>
+        <label for="quantity11">Quantity (kg):</label>
+      <input type="number" id="quantity11" min="1" value="1">
+      <button onclick="addToCart('Spring Onion ', 30, 'quantity11')">Add to Cart</button>
+      </div>  
+  
+  </section>
+
+
+  <script>
+    function addToCart(productName, price, quantityId) {
+      var quantity = document.getElementById(quantityId).value;
+      var totalPrice = price * quantity;
+      
+      // Display popup message//
+      alert('Added to Cart!\nProduct: ' + productName + '\nQuantity: ' + quantity + '\nTotal Price: ₹' + totalPrice.toFixed(2));
+    }
+  </script>
+
+  <!-- dropdown -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
