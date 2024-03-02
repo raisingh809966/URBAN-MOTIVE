@@ -77,17 +77,12 @@ Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azu
 # Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more
 
-![Screenshot 2024-02-26 172918](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/e8c259ad-87e7-48be-8668-3bae4d6bc169)
-
-![Screenshot 2024-02-26 172901](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/36cbbf89-c128-4bd9-b018-fc4fdd329d50)
-
-# AI Language Service
-Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows. 
-
 ![Screenshot 2024-03-03 005337](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/4fe722a2-c725-4320-b5d5-23f348b6d544)
 
 ![Screenshot 2024-03-03 005705](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/55e145ec-6c07-49c3-827e-3984f4504ca6)
 
+# AI Language Service
+Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows. 
 
 
 # FINAL PROJECT STATEMENT
