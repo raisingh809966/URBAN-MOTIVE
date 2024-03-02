@@ -1,4 +1,9 @@
 
+#info1 h1{
+  line-height:1.5;
+  text-align: center;
+}
+
 .text-nagaraj{
  color:white;
 }
@@ -8,10 +13,13 @@
  .about {
   background-color: #fff;
   padding: 90px 0;
-}
-
-.about .titlepage {
   text-align: center;
+}
+.about .content1{
+text-align: center;
+}
+.about .titlepage {
+  text-align: justify;
 }
 
 .about .titlepage span {
@@ -35,23 +43,52 @@
   display: block;
   margin-top: 60px;
 }
+.container-box {
+  background-color: #e2e5e7;
+  border-radius: 20px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 50px auto; /* Center the box horizontally */
+  max-width:1000px; /* Adjust the maximum width as needed */
+  text-align: center;
+}
+.container-box h2{
+  color: #070707;
+  text-align: center;
+}
+.container-box h1{
+  text-align: center;
+}
+/* Add additional styling for content within the box if necessary */
+
 
 /* about end */
 
+.container-box-1 {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 50px auto; /* Center the box horizontally */
+  max-width: 1300px; /* Adjust the maximum width as needed */
+}
 
-
+.head1{
+  text-align: center;
+}
+.subtitle{
+  text-align: center;
+}
 
 /* team section start */
 @import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
 .team4 {
   font-family: "Montserrat", sans-serif;
-	color: #040607;
+	color: ##002c3e;
   font-weight: 300;
 }
 
-.team4 h1, .team4 h2, .team4 h3, .team4 h4, .team4 h5, .team4 h6 {
-  color: #e7750a;
-}
+
 
 .team4 .font-weight-medium {
 	font-weight: 500;
@@ -81,17 +118,9 @@
   transform: translate3d(0px, -5px, 0px);
 	color: #316ce8;
 }
-
 /* team section ends */
 
 
- .narendra1 {
-  background-image: url(b2.jpg);
-  height: 50px;
-  border-radius: 20px;
-  margin-left:  3px; 
-  margin-right: 3px;
-}
 
 
 /* Contact page starts*/
