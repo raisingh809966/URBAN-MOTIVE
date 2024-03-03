@@ -52,19 +52,27 @@ The project is designed to address the increasing demand for locally sourced, fr
 # Azure Storage Account:
 Azure Storage is a cloud-based storage solution provided by Microsoft Azure, which is a comprehensive set of cloud services. An Azure Storage account is a unique entity in Azure that represents a storage container for your data.
 
+![Screenshot 2024-02-26 172254](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/00376d8d-3c17-47b8-8954-e3eb4c142843)
+
+![Screenshot 2024-02-26 172351](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/295efd1b-deee-4890-bbf1-980a048488c8)
+
+
 # Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage solution provided by Microsoft Azure. It is designed to store and manage massive amounts of unstructured data, such as text or binary data. Blob Storage is part of the Azure Storage services and is commonly used for scenarios like storing and serving images, videos, documents, backups, and other large sets of data.
 
-![Screenshot 2024-03-03 004959](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/8ee4cf15-eff3-4943-91dd-2b4589d68b48)
+![Screenshot 2024-02-26 172458](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/6fba4abb-5b85-4194-949b-020b4b37ddf0)
 
-![Screenshot 2024-02-26 172458](https://github.com/yadasai161101/URBAN-MOTIVE/assets/158995460/d3ab07e5-12ec-4ee2-8a69-03ae88d57b8f)
+
+![Screenshot 2024-02-26 172511](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/147e8b82-6236-4418-a9c5-1fedec9d9be0)
+
 
 # Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
 
-![Screenshot 2024-03-03 005111](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/4d1c382e-b9ea-46c5-8df2-a043bab92f6f)
+![Screenshot 2024-02-26 172651](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/0548e0f7-e57e-45fc-a282-215944cf8833)
 
-![Screenshot 2024-03-03 010303](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/daa4031c-93e0-4f40-ba46-472e8b0dfbd6)
+![Screenshot 2024-02-26 172641](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/34d793a2-40a1-4594-bbc8-1aae59af4f5e)
+
 
 # Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
@@ -77,12 +85,16 @@ Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azu
 # Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more
 
-![Screenshot 2024-03-03 005337](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/4fe722a2-c725-4320-b5d5-23f348b6d544)
+![Screenshot 2024-02-26 172901](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/fed2dae5-84fa-49fc-b9e4-9236a281f751)!
 
-![Screenshot 2024-03-03 005705](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/55e145ec-6c07-49c3-827e-3984f4504ca6)
+[Screenshot 2024-02-26 172918](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/c97f6916-bc82-406b-a233-6132fd894399)
 
 # AI Language Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows. 
+
+![Screenshot 2024-02-26 172800](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/c7f952d5-a466-4f77-b4ff-29b2fada4a1e)
+
+![Screenshot 2024-02-26 172734](https://github.com/yadasai161101/URBAN-MOTIVE/assets/155289155/6558f46d-2fef-4a57-8e66-b19f9177f0a6)
 
 
 # FINAL PROJECT STATEMENT
